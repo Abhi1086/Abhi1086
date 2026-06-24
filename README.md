@@ -82,7 +82,6 @@
 | Certification | Issuer | Status |
 |---|---|---|
 | Introduction to Generative AI | Google Cloud | ✅ Certified |
-| AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Certified |
 | Data Analyst Program | SkilloVilla | ✅ Completed |
 
 ---
