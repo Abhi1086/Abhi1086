@@ -76,15 +76,6 @@
 
 ---
 
-### ✈️ Airline Database Analysis &nbsp; `SQL`
-> SQL-based analysis of airline operations data. Used joins, subqueries, aggregations, and window functions to extract business insights on routes, delays, and passenger trends.
-
----
-
-### 🛒 Freshco Hypermarket Analysis &nbsp; `MS Excel`
-> Sales and inventory analysis for a retail hypermarket using MS Excel. Applied pivot tables, VLOOKUP, conditional formatting, and charts to surface key business metrics and trends.
-
----
 
 ## 🏅 Certifications
 
